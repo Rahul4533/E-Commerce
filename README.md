@@ -3,7 +3,7 @@
 A Ecommerce Website made with React.js Framework.
 
 ## Hosted Link
-https://e-commerce-ten-lac.vercel.app/
+https://e-commerce-rosy-mu-83.vercel.app/
 
 
 ## Demo
