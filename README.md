@@ -6,9 +6,7 @@ A Ecommerce Website made with React.js Framework.
 https://e-commerce-rosy-mu-83.vercel.app/
 
 
-## Demo
 
-https://reactjs-ecommerce-app.vercel.app/
 
 ## Features
 
